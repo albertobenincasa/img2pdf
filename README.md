@@ -7,5 +7,7 @@ A me un sacco.
 Installare requirements:
 ``` pip install -r requirements.txt ```
 
+Installare tkinter: ``` sudo apt-get install python3-tk ```
+
 Avviare:
 ``` python convert.py ```
